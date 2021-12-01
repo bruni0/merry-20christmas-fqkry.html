@@ -1,0 +1,49 @@
+.music {
+  color: #ffffff;
+  font-size: larger;
+  margin-left: 60px;
+  margin-top: -10px;
+
+  font-variant-caps: titling-caps;
+}
+* {
+  background-color: rebeccapurple;
+  
+}
+.audio {
+  margin-left: 70px;
+  margin-top: -39px;
+  height: 20px;
+  width: 200px;
+}
+.foto {
+  border-radius: 150px;
+  width: 300px;
+  height: 300px;
+  margin-left: 43px;
+  margin-top: 50px;
+}
+.urim {
+  height: 200px;
+  width: fit-content;
+  margin-left: 35px;
+  margin-top: 50px;
+}
+.slita1 {
+  height: 100px;
+  width: fit-content;
+  margin-top: 50px;
+  margin-left: -20px;
+}
+.oxh1 {
+  height: 80px;
+  width: fit-content;
+  margin-left: 110px;
+}
+.logo {
+  height: 60px;
+  width: 60px;
+  border-radius: 200px;
+  margin-left: 83px;
+  margin-top: 20px;
+}
